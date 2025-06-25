@@ -32,7 +32,7 @@ Key points of the lab have been documented and can be found in the `/screenshots
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 As someone growing into cybersecurity and IT, this lab helped me understand more than just tools — it taught me how important preparation and consistency are. Establishing a system baseline isn’t just a checkbox task — it’s how organizations create trust in their infrastructure.
 
