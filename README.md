@@ -39,11 +39,11 @@ The goal of this lab was to implement and analyze system baselines as a foundati
 
 ## What I Learned
 
-As someone growing into cybersecurity and IT, this lab helped me understand more than just tools — it taught me how important preparation and consistency are. Establishing a system baseline isn’t just a checkbox task — it’s how organizations create trust in their infrastructure.
+As someone growing into cybersecurity and IT, this lab helped me understand more than just tools, it taught me how important preparation and consistency are. Establishing a system baseline isn’t just a checkbox task, it’s how organizations create trust in their infrastructure.
 
 I learned:
 - How to think like a defender by identifying “known good” system states
-- The real-world value of documenting everything — especially in incident response
+- The real-world value of documenting everything, especially in incident response
 - How simple changes (like a new service or file hash) can signal compromise
 - That attention to detail is a critical IT skill, and good habits now = fewer disasters later
 
