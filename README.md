@@ -32,5 +32,16 @@ Key points of the lab have been documented and can be found in the `/screenshots
 
 ---
 
-> This lab simulates a real-world security task used by SOC analysts and security admins to establish a reference point for future system integrity checks.
+## 🧠 What I Learned
+
+As someone growing into cybersecurity and IT, this lab helped me understand more than just tools — it taught me how important preparation and consistency are. Establishing a system baseline isn’t just a checkbox task — it’s how organizations create trust in their infrastructure.
+
+I learned:
+- How to think like a defender by identifying “known good” system states
+- The real-world value of documenting everything — especially in incident response
+- How simple changes (like a new service or file hash) can signal compromise
+- That attention to detail is a critical IT skill, and good habits now = fewer disasters later
+
+Completing this lab reinforced why baseline integrity matters, and gave me confidence that I could contribute to a real-world SOC or blue team environment.
+
 
