@@ -28,7 +28,11 @@ The goal of this lab was to implement and analyze system baselines as a foundati
 
 ## Screenshots
 
-Key points of the lab have been documented and can be found in the `/screenshots` directory.
+###System Baseline###
+
+
+
+This chart was generated using Performance Monitor on a Windows system during the baseline phase of the lab. Key performance counters such as Pages/sec (memory usage), Bytes Total/sec (network throughput), Disk Queue Length, Disk Transfers/sec, and Processor Time were tracked. Capturing these metrics established a “known good” state for future comparison and anomaly detection.
 
 ---
 
