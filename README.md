@@ -28,7 +28,7 @@ The goal of this lab was to implement and analyze system baselines as a foundati
 
 ## Screenshots
 
-###System Monitor Baseline
+### System Monitor Baseline
 
 
 ![System Monitor Baseline](./screenshots/Setting-Baseline.png)
